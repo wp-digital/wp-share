@@ -1,0 +1,20 @@
+{
+    "name": "shtrihstr/wp-share",
+    "description": "WordPress plugin for fixing social sharing issues",
+    "type": "wordpress-muplugin",
+    "keywords": ["wordpress", "plugins"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Oleksandr Strikha",
+            "email": "alex@strikha.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "extra": {
+        "installer-name": "share"
+    }
+}
