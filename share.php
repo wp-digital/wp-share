@@ -1,12 +1,11 @@
 <?php
-
 /*
 Plugin Name: Share fix
 Description: WordPress plugin for fixing social sharing issues
-Version: 1.2
-Plugin URI: https://github.com/shtrihstr/wp-share
-Author: Oleksandr Strikha
-Author URI: https://github.com/shtrihstr
+Version: 1.3
+Plugin URI: https://github.com/redink-no/wp-share
+Author: Redink AS
+Author URI: https://github.com/redink-no
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */

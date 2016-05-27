@@ -6,8 +6,7 @@
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Oleksandr Strikha",
-            "email": "alex@strikha.com"
+            "name": "Redink AS"
         }
     ],
     "minimum-stability": "dev",
